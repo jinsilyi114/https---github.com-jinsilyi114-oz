@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    font-family: font-family: 'Nanum Pen Script', 
+    cursive;Arial, monospace;}
+
+html{
+    background-color: #ffe5cc;
+}
+
+body}{
+    width: 640px;
+    margin: auto; /* 너비의 남는 여백을 동일하 분배*/
+}
+
+h1{
+    font-size: 48px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
