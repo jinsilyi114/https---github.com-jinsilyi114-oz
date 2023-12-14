@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+    background: linear-gradient(to top right, #ca121e, #FF9999);
+}
+p{
+    font-size: 20px;
+    *{font-family: font-family: 'Nanum Pen Script', cursive;Arial, monospace;}
+    color:rgb(8, 8, 8);
+    padding: 8px;
+
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(300, 200, 100);
+    border-radius: 8px;
+
+    background-color: white;
+}
